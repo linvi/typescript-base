@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "build/app.js",
+    "sourceRoot": "./src/",
+    "rootDir": "./src/",
+    "sourceMap": true,
+    "module": "amd"
+  }
+}
